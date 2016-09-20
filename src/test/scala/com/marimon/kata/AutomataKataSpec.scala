@@ -3,7 +3,7 @@ package com.marimon.kata
 import org.scalatest.Matchers
 import org.scalatest._
 
-final class automataKataSpec extends FlatSpec with Matchers {
+final class AutomataKataSpec extends FlatSpec with Matchers {
 
   behavior of "AutomataKata"
 
